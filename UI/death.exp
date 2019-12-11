@@ -1,0 +1,4 @@
+  if PlayerDie (Strings[]) {
+  then load.file Death.dat
+  run loadfile
+ 
